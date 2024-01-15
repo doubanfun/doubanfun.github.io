@@ -1,0 +1,3 @@
+Sitemap: https://douban.fun/sitemap.xml
+
+User-agent: *
